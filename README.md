@@ -47,6 +47,12 @@
 
 &nbsp;
 
+<div align="center">
+    <img src="./gambar-petunjuk/ss_terraform_logo_black.png" alt="ss_terraform_logo_black" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
 <div align="left">
     <h2>Link to view entire :</h2>
     <ul>
